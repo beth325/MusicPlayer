@@ -6,7 +6,11 @@ It has features such as a replay, going forward, backward butoon with a randomiz
 
 Function:
 Random Song,
-Previous Song,<img width="1436" alt="Screenshot 2022-11-21 at 1 55 17 AM" src="https://user-images.githubusercontent.com/116849018/203215582-d7b0dcf0-3c0e-418f-8bc8-541d17b8df8b.png">
-
+Previous Song,
 Next Song,
-Repeat Song,
+Repeat Song
+
+
+<img width="1436" alt="Screenshot 2022-11-21 at 1 55 17 AM" src="https://user-images.githubusercontent.com/116849018/203215582-d7b0dcf0-3c0e-418f-8bc8-541d17b8df8b.png">
+
+
