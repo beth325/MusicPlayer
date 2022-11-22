@@ -1,5 +1,5 @@
 # MusicPlayer
-Demo Video:
+Demo Video: https://www.loom.com/share/42fccd7a1f27483fb61e9c3f38d991a8
 
 Try it out at https://musicaloplayer.netlify.app/
 It has features such as a replay, going forward, backward butoon with a randomized color every time song is changed and each time it reloads.
